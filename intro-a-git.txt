@@ -1,1 +1,5 @@
 Hola a todos! Bienvenidos a GIT
+
+Hola Nadia
+Hola Jorge 
+Hola Emilio
