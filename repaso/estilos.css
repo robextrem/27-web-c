@@ -1,0 +1,54 @@
+*{
+    font-family: 'Roboto Slab', serif;
+}
+
+body{
+    background-color: #FFB49A;
+}
+
+#titulo{
+    color: #99621E;
+    background-color: black;
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    width: 400px;
+}
+
+/* Aqui voy a poner mis estilos de abajo  */
+
+.parrafo{
+    font-size: 25px; /* rem, em, pt, px */ 
+    color: #09542A;
+    text-align: justify;
+}
+
+.negrita{
+    font-weight: bold;
+}
+
+.delgadita{
+    font-weight: 100;
+}
+
+.centrado{
+    text-align: center;
+}
+
+.espaciado{
+    width: 500px;
+    height: 300px;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.bloque{
+    /* font-style: italic;*/
+    font-weight: 400;
+}
