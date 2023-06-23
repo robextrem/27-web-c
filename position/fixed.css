@@ -16,11 +16,22 @@ nav{
     color: white;
 }
 
+.flex{
+    display: flex;
+}
+
+.sidebar{
+    width:200px;
+}
+
 aside{
     height: 20vh;
-    width:200px;
     background-color: blueviolet;
     position: sticky;
-    top: 100px;
+    top: 80px;
     left: 40px;
+}
+
+section{
+    width:800px;
 }

@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+    padding:0;
+    font-size: 0;
+}
+.bloque{
+    background-color: darkblue;
+    text-align: center;
+    color:white;
+    width: 25vw;
+    display: inline-block;
+}
+
+h1{
+    font-size: 24px;;
+}
+
+.bloque img{
+    width: 100%;
+}
+
+
+@media (max-width:900px){
+    .bloque{
+        width: 33vw;
+    }
+}
+
+@media screen and (min-width:481px) and (max-width:768px){
+    .bloque{
+        background-color: chartreuse;
+        width: 50vw;
+    }
+    h1{
+        color: brown;
+    }
+}
+
+@media (max-width:480px) {
+    .bloque{
+        background-color: orangered;
+        width:100vw
+    }
+}
