@@ -1,0 +1,26 @@
+html,body{
+    margin: 0;
+}
+
+body{
+    padding-top:40px;
+}
+
+nav{
+    width:100vw;
+    height: 40px;
+    padding: 10px;
+    background:rgb(91, 109, 180);
+    position: fixed;
+    top: 0;
+    color: white;
+}
+
+aside{
+    height: 20vh;
+    width:200px;
+    background-color: blueviolet;
+    position: sticky;
+    top: 100px;
+    left: 40px;
+}

@@ -1,0 +1,21 @@
+.bloque{
+    width: 300px;
+    height: 300px;
+}
+
+.naranja{
+    background-color: orange;
+    position: absolute;
+    bottom: 70px;
+    right: 50px;
+    z-index: 15;
+}
+
+.verde{
+    background-color: rgba(85%, 83%, 11%,0.9);
+    opacity: 0.5;
+    position: absolute;
+    z-index: 10;
+    top: 10px;
+    left: 50px;
+}

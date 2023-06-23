@@ -1,0 +1,19 @@
+body{
+    font-size: 12px; /* 1rem */
+}
+
+h1{
+    font-size: 3em; 
+}
+
+h2{
+    font-size: 2em;
+}
+
+h3{
+    font-size: 2em;
+}
+
+.contenedor{
+    font-size: 40px;
+}

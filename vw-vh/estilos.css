@@ -1,0 +1,14 @@
+*{
+    margin:0;
+}
+
+.bloque{
+    background-color: orange;
+    height: 100vh; 
+    width: 70vw;
+    position: fixed;
+    top:0;
+    left: 15vw;
+    bottom: auto;
+    right:0;
+}
